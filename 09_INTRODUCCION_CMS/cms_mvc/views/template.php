@@ -7,7 +7,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="icon" href="images/icono.jpg">
+    <link rel="icon" href="views/images/icono.jpg">
 
     <link rel="stylesheet" href="views/css/bootstrap.min.css">
     <link rel="stylesheet" href="views/css/font-awesome.min.css">
@@ -27,13 +27,11 @@
 
     <div class="container-fluid">
 
-        <!--=====================================
-		CABEZOTE
-		======================================-->
+        <!--==============================
+       CABEZOTE
+       ===============================-->
 
-        <?php include "modules/cabezote.php"; ?>
-
-        <!--====  Fin de CABEZOTE  ====-->
+        <?php include "modules/cabezote.php";  ?>
 
         <!--=====================================
 		SLIDE
@@ -57,7 +55,6 @@
 
         <?php include "modules/galeria.php"; ?>
 
-
         <!--====  Fin de GALERIA  ====-->
 
         <!--=====================================
@@ -73,7 +70,7 @@
 		======================================-->
 
         <?php include "modules/videos.php"; ?>
-
+      
         <!--====  Fin de VIDEOS  ====-->
 
         <!--=====================================
@@ -84,13 +81,12 @@
 
         <!--====  Fin de CONTÁCTENOS ====-->
 
-        <!--===========================================
+        <!--=====================================
 			ARTÍCULO MODAL         
-            ESTA ES LA VENTANA QUEAPARECE EN LEER MAS
-            ========================================-->
+		======================================-->
 
-        <?php include "modules/articuloModal.php"; ?>   
-        
+        <?php include "modules/articuloModal.php"; ?>
+
         <!--====  Fin de ARTICULO MODAL ====-->
 
     </div>

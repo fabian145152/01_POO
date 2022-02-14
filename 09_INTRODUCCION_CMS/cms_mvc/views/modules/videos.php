@@ -1,49 +1,57 @@
-<div class="row" id="videos">
+ <!--=====================================
+		VIDEOS
+		======================================-->
 
-            <hr>
 
-            <h1 class="text-center text-info"><b>GALERÍA DE VIDEOS</b></h1>
+        <div class="row" id="videos">
 
-            <hr>
+<hr>
 
-            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+<h1 class="text-center text-info"><b>GALERÍA DE VIDEOS</b></h1>
 
-                <video controls width="100%">
+<hr>
 
-                    <source src="views/videos/video01.mp4" type="video/mp4">
+<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
 
-                </video>
+    <video controls width="100%">
 
-            </div>
+        <source src="views/videos/video01.mp4" type="video/mp4">
 
-            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+    </video>
 
-                <video controls width="100%">
+</div>
 
-                    <source src="views/videos/video02.mp4" type="video/mp4">
+<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
 
-                </video>
+    <video controls width="100%">
 
-            </div>
+        <source src="views/videos/video02.mp4" type="video/mp4">
 
-            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+    </video>
 
-                <video controls width="100%">
+</div>
 
-                    <source src="views/videos/video03.mp4" type="video/mp4">
+<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
 
-                </video>
+    <video controls width="100%">
 
-            </div>
+        <source src="views/videos/video03.mp4" type="video/mp4">
 
-            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+    </video>
 
-                <video controls width="100%">
+</div>
 
-                    <source src="views/videos/video04.mp4" type="video/mp4">
+<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
 
-                </video>
+    <video controls width="100%">
 
-            </div>
+        <source src="views/videos/video04.mp4" type="video/mp4">
 
-        </div>
+    </video>
+
+</div>
+
+</div>
+
+
+<!--====  Fin de VIDEOS  ====-->

@@ -1,9 +1,11 @@
 <?php
 
-class TemplateController{
+class TemplateController
+{
 
-public function template(){
-    include "views/template.php";
-}
+    public function template()
+    {
 
+        include "views/template.php";
+    }
 }

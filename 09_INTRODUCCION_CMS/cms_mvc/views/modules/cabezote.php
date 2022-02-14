@@ -1,41 +1,47 @@
-<header class="row">
+ <!--=====================================
+		CABEZOTE
+		======================================-->
 
-    <!-- LOGOTIPO -->
+ <header class="row">
 
-    <div id="logo" class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+     <!-- LOGOTIPO -->
 
-        <img src="views/images/logotipo.png" class="img-responsive">
+     <div id="logo" class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 
-    </div>
+         <img src="views/images/logotipo.png" class="img-responsive">
 
-    <!-- BOTONERA MOVIL -->
+     </div>
 
-    <div id="botoneraMovil" class="navbar-header navbar-inverse">
+     <!-- BOTONERA MOVIL -->
 
-        <button type="button" class="navbar-toggle pull-left" data-toggle="collapse" data-target="#botonera">
+     <div id="botoneraMovil" class="navbar-header navbar-inverse">
 
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
+         <button type="button" class="navbar-toggle pull-left" data-toggle="collapse" data-target="#botonera">
 
-        </button>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
 
-    </div>
+         </button>
 
-    <!-- BOTONERA NORMAL -->
+     </div>
 
-    <nav id="botonera" class="col-lg-9 col-md-9 col-sm-12 col-xs-12 collapse navbar-collapse pull-right">
+     <!-- BOTONERA NORMAL -->
 
-        <ul class="nav navbar-nav">
+     <nav id="botonera" class="col-lg-9 col-md-9 col-sm-12 col-xs-12 collapse navbar-collapse pull-right">
 
-            <li><a href="#top">Noticias</a></li>
-            <li><a href="#galeria">Galería</a></li>
-            <li><a href="#articulos">Artículos</a></li>
-            <li><a href="#videos">Videos</a></li>
-            <li><a href="#contactenos">Contáctenos</a></li>
+         <ul class="nav navbar-nav">
 
-        </ul>
+             <li><a href="#top">Noticias</a></li>
+             <li><a href="#galeria">Galería</a></li>
+             <li><a href="#articulos">Artículos</a></li>
+             <li><a href="#videos">Videos</a></li>
+             <li><a href="#contactenos">Contáctenos</a></li>
 
-    </nav>
+         </ul>
 
-</header>
+     </nav>
+
+ </header>
+
+ <!--====  Fin de CABEZOTE  ====-->

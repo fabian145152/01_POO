@@ -1,51 +1,51 @@
-
-
-		<!--=====================================
+     <!--=====================================
 		COLUMNA BOTONERA           
 		======================================-->
 
+
         <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12" id="col1">
-				
-				<div id="logo" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-						
-					<img src="views/images/logotipo.jpg" class="img-responsive" alt="Image">
+
+<div id="logo" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
 
-				</div>
+    <img src="views/images/logotipo.jpg" class="img-responsive" alt="Image logotipo">  
 
-				<!--=====================================
-				BOTONERA MOVIL            
-				======================================-->
 
-				<div id="botoneraMovil" class="navbar-header navbar-inverse">
+</div>
 
-					<button type="button" class="navbar-toggle pull-left" data-toggle="collapse" data-target="#botonera">
+<!--=====================================
+BOTONERA MOVIL            
+======================================-->
 
-						<span class="icon-bar"></span>
-	            		<span class="icon-bar"></span>
-	           			<span class="icon-bar"></span>
+<div id="botoneraMovil" class="navbar-header navbar-inverse">
 
-					</button>
-				
-				</div>
+    <button type="button" class="navbar-toggle pull-left" data-toggle="collapse" data-target="#botonera">
 
-				<!--====  Fin de BOTONERA MOVIL  ====-->
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+           <span class="icon-bar"></span>
 
-				<nav id="botonera" class="col-lg-12 col-md-12 col-sm-12 col-xs-12 collapse navbar-collapse text-center">
-							
-					<ul class="nav navbar">
-		
-						<li><a href="inicio.html">Inicio <span class="glyphicon glyphicon-new-window"></span></a></li>
-						<li><a href="slide.html">Slide <span class="glyphicon glyphicon-new-window"></span></a></li>
-						<li><a href="articulos.html">Artículos <span class="glyphicon glyphicon-new-window"></span></a></li>
-						<li><a href="galeria.html">Imágenes <span class="glyphicon glyphicon-new-window"></span></a></li>
-						<li><a href="videos.html">Videos <span class="glyphicon glyphicon-new-window"></span></a></li>
-						<li><a href="suscriptores.html">Suscriptores <span class="glyphicon glyphicon-new-window"></span></a></li>
+    </button>
 
-					</ul>
+</div>
 
-				</nav>
+<!--====  Fin de BOTONERA MOVIL  ====-->
 
-			</div>
+<nav id="botonera" class="col-lg-12 col-md-12 col-sm-12 col-xs-12 collapse navbar-collapse text-center">
 
-		<!--====  FIn de COLUMNA BOTONERA  ====-->
+    <ul class="nav navbar">
+
+        <li><a href="inicio.html">Inicio <span class="glyphicon glyphicon-new-window"></span></a></li>
+        <li><a href="slide.html">Slide <span class="glyphicon glyphicon-new-window"></span></a></li>
+        <li><a href="articulos.html">Artículos <span class="glyphicon glyphicon-new-window"></span></a></li>
+        <li><a href="galeria.html">Imágenes <span class="glyphicon glyphicon-new-window"></span></a></li>
+        <li><a href="videos.html">Videos <span class="glyphicon glyphicon-new-window"></span></a></li>
+        <li><a href="suscriptores.html">Suscriptores <span class="glyphicon glyphicon-new-window"></span></a></li>
+
+    </ul>
+
+</nav>
+
+</div>
+
+ <!--====  FIn de COLUMNA BOTONERA  ====-->

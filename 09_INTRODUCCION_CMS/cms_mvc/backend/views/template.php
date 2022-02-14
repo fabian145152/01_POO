@@ -38,10 +38,6 @@
 
         <section class="row">
 
-            <!--=====================================
-		COLUMNA CONTENIDO        
-		======================================-->
-
             <?php
 
             $modulos = new Enlaces();
@@ -49,14 +45,13 @@
 
             ?>
 
-
-            <!--====  Fin de COLUMNA CONTENIDO  ====-->
-
         </section>
 
     </div>
 
     <script src="views/js/script.js"></script>
+    <script src="views/js/validarIngreso.js"></script>
+
 
 </body>
 
